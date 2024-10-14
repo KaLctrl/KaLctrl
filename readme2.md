@@ -5,7 +5,7 @@ Kelas: A
 
 # FLOWCHART dan CONTOH INPUT dan OUTPUT 
 
-https://imgur.com/gallery/test-bPrTwuu
+https://imgur.com/gallery/minpro2-3jGv5Lt
 
 # PENJELASAN OUTPUT
 1. Login Admin: Masukkan username dan password admin.
@@ -22,6 +22,8 @@ Menambahkan pengumuman.
 
 Logout.
 
+jika username atau password salah maka admin akan diarahkan untuk login ulang
+
 
 
 
@@ -37,3 +39,5 @@ Melihat materi dari kursus yang telah didaftar.
 
 Mengikuti tes dalam kursus.
 logout.
+
+jika username atau password salah maka pengguna akan diarahkan untuk login ulang
